@@ -1,0 +1,5 @@
+{
+  "name": "of AgriMarket Admin local",
+  "description": "A comprehensive bilingual (English/French) admin control panel for an African online grocery store. Features inventory management, order processing, and AI-powered insights using Gemini.",
+  "requestFramePermissions": []
+}
